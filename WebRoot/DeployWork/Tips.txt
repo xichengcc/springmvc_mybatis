@@ -1,0 +1,5 @@
+部署须知：
+部署环境: JDK7、Tomcat7、MySql5.1    
+SQL: 执行文件在同目录下,记得修改MySql的root用户名的密码）
+Jar：增加Jar包时，除了项目自带Jar包，还要添加tomcat的lib文件夹在的jar包。需要部署7.0版本，如果部署的是6.0的话，会因为jar文件报错。
+springmvc版本：spring3.2
